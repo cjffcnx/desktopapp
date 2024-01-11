@@ -1,0 +1,11 @@
+F:\desktop project\Econtactform\bin\Debug\Econtactform.exe.config
+F:\desktop project\Econtactform\bin\Debug\Econtactform.exe
+F:\desktop project\Econtactform\bin\Debug\Econtactform.pdb
+F:\desktop project\Econtactform\obj\Debug\Econtactform.csproj.AssemblyReference.cache
+F:\desktop project\Econtactform\obj\Debug\Econtactform.Econtact.resources
+F:\desktop project\Econtactform\obj\Debug\Econtactform.Form1.resources
+F:\desktop project\Econtactform\obj\Debug\Econtactform.Properties.Resources.resources
+F:\desktop project\Econtactform\obj\Debug\Econtactform.csproj.GenerateResource.cache
+F:\desktop project\Econtactform\obj\Debug\Econtactform.csproj.CoreCompileInputs.cache
+F:\desktop project\Econtactform\obj\Debug\Econtactform.exe
+F:\desktop project\Econtactform\obj\Debug\Econtactform.pdb
